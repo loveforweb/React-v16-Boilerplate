@@ -1,1 +1,1 @@
-# Expense Manager Application built using React
+# React Boilerplate
